@@ -1,6 +1,6 @@
 # One Month
 
 This is the pinteresting sample application for
-[*OneMonth Rails*](https://onemonth.com/)
+[One Month Rails(https://onemonth.com/)
 
 by JJ LECOCQ
